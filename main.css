@@ -1,0 +1,36 @@
+html,body {
+    height: 100%;
+}
+
+body {
+    margin: 0 0 0 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+}
+
+>.js-search-results {
+    margin-top: 30px:;
+    display: none;
+}
+
+.videoInfo {
+    border: 0px solid black;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 25px;
+    color: black;
+    word-wrap: break-word;
+}
+
+.videoInfo img {
+    max-width: 120px;
+    max-height: 90px;
+    border: 0px solid black;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 10px;
+}
+
+.videoInfo a {
+    color: black;
+    font-weight: 600;
+}
